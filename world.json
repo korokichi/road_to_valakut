@@ -1,0 +1,140 @@
+{
+  "title": "ヴァラクートへの道",
+  "id": "roadtovalakut",
+  "system": "dnd5e",
+  "description": "<p></p>",
+  "coreVersion": "10.290",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10.290"
+  },
+  "systemVersion": "2.0.2",
+  "packs": [
+    {
+      "type": "Item",
+      "label": "DDB Backgrounds",
+      "name": "ddb-roadtovalakut-backgrounds",
+      "path": "packs/ddb-roadtovalakut-backgrounds.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-roadtovalakut-classes",
+      "path": "packs/ddb-roadtovalakut-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Subclasses",
+      "name": "ddb-roadtovalakut-subclasses",
+      "path": "packs/ddb-roadtovalakut-subclasses.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-roadtovalakut-class-features",
+      "path": "packs/ddb-roadtovalakut-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-roadtovalakut-feats",
+      "path": "packs/ddb-roadtovalakut-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Items",
+      "name": "ddb-roadtovalakut-items",
+      "path": "packs/ddb-roadtovalakut-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-roadtovalakut-monsters",
+      "path": "packs/ddb-roadtovalakut-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Actor",
+      "label": "DDB Vehicles",
+      "name": "ddb-roadtovalakut-vehicles",
+      "path": "packs/ddb-roadtovalakut-vehicles.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Races",
+      "name": "ddb-roadtovalakut-races",
+      "path": "packs/ddb-roadtovalakut-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-roadtovalakut-racial-traits",
+      "path": "packs/ddb-roadtovalakut-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-roadtovalakut-spells",
+      "path": "packs/ddb-roadtovalakut-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-roadtovalakut-tables",
+      "path": "packs/ddb-roadtovalakut-tables.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Item",
+      "label": "DDB Override",
+      "name": "ddb-roadtovalakut-override",
+      "path": "packs/ddb-roadtovalakut-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Adventure",
+      "label": "DDB Adventures",
+      "name": "ddb-roadtovalakut-ddb-adventures",
+      "path": "packs/ddb-roadtovalakut-ddb-adventures.db",
+      "system": "dnd5e",
+      "private": false,
+      "flags": {}
+    }
+  ]
+}
